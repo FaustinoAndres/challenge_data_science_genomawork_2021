@@ -43,7 +43,7 @@ Imagina que nuestro cliente Stark Industries se ha planteado el objetivo de mejo
 
 ## 4 Datos
 
-Los datos que utilizaras son un conjunto de datos relativos a la rotacion de empleados (employee turnover). El dataset es público y esta disponible en kaggle en el siguiente link: https://www.kaggle.com/davinwijaya/employee-turnover
+Los datos que utilizaras son un conjunto de datos relativos a la rotacion de empleados (employee turnover). El dataset es público y esta disponible en kaggle.
 
 ## 5 Otros
 En caso de que tu solución cumpla con los objetivos descritos, coordinaremos una entrevista como última etapa del proceso de postulación. Una parte de esta entrevista, sera presentar los principales hallazgos de este ejercicio enfocado a una audiencia no-técnica. Nos interesa ver como puedes comunicar ideas de manera simple, pero precisa y respaldada en tu trabajo.
